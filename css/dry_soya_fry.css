@@ -1,0 +1,42 @@
+.container{
+    max-width: 900px;
+    padding:10px;
+    margin:0 auto;  
+}
+h2{
+    color: rgb(151, 87, 8);
+    font-size: 30px;
+     
+}
+h3{
+    color:rgb(151, 87, 8);
+}
+a{
+    border: 1px rgb(151, 87, 8) solid;
+    border-radius: 5px;
+    font-size: 25px;
+    padding:8px 12px;
+    text-decoration: none;
+    color: rgb(151, 87, 8);
+    margin-left:400px;
+    margin-top: 100px;  
+}
+.heading{
+    color: rgb(151, 87, 8);
+    font-size: 26px;
+    padding: 20px 0px;
+    margin-left:280px;
+}
+img{
+    border-radius: 30px; 
+    margin-left:200px;
+}
+b{
+    color: rgb(151, 87, 8);
+}
+
+.ingredients{
+    background-color: rgb(248, 223, 176);
+    border-radius: 5px;
+    padding:2px 10px;
+}
